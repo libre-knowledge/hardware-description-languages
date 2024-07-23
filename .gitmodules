@@ -9,5 +9,5 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 [submodule "Verilog 硬體描述語言"]
 	path = Verilog 硬體描述語言
-	url = https://github.com/libre-knowledge/verilog.git
+	url = https://gitlab.com/libre-knowledge/verilog.git
 	ignore = dirty
