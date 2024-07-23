@@ -9,7 +9,8 @@
 
 以下列舉本主題相關的主題：
 
-* Verilog
+* [Verilog](https://gitlab.com/libre-knowledge/verilog)  
+  用來設計與描述電子電路的一種硬體描述語言
 * VHDL
 
 ## 參考資料
